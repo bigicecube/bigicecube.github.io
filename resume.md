@@ -8,7 +8,7 @@ leey46@uw.edu
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Able to program using languages such as
 
 # Work Experience (only last 10 years)
 
