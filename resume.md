@@ -11,7 +11,7 @@ leey46@uw.edu
 Able to program using languages such as
 
 # Work Experience (only last 10 years)
-
+Incutek Company
 ## University Name 1 (City, State)
 
 * University of Washington, Seattle (Seattle, Washington)
