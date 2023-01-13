@@ -18,10 +18,10 @@ Able to program using languages such as java, python, html, css, and javascript.
 
 * University of Washington, Seattle (Seattle, Washington)
 
+![Alt text](logo.png)
+
 **(09/2017 - 08/2023)
 - https://www.washington.edu/
 
-Summary of your role
 
-- Accomplishment that contains **bold text**.
 
