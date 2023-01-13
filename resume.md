@@ -8,7 +8,7 @@ leey46@uw.edu
 
 # Summary
 
-Able to program using languages such as java, python, html, css, and javascript. 
+>Able to program using languages such as java, python, html, css, and javascript. 
 
 # Work Experience (only last 10 years)
 - Seokparang (Server)
