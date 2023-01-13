@@ -19,7 +19,7 @@ Able to program using languages such as java, python, html, css, and javascript.
 * University of Washington, Seattle (Seattle, Washington)
 
 **(09/2017 - 08/2023)
-uw.edu
+- https://www.washington.edu/
 
 Summary of your role
 
