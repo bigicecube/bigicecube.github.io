@@ -11,21 +11,17 @@ leey46@uw.edu
 Able to program using languages such as java, python, html, css, and javascript. 
 
 # Work Experience (only last 10 years)
-- Seokparang <Server>
-- Subway <Manager>
-- Incutek Company <Internship>
+- Seokparang (Server)
+- Subway (Manager)
+- Incutek Company (Internship) https://incutek.net/about-eng/
 ## University Name 1 (City, State)
 
 * University of Washington, Seattle (Seattle, Washington)
 
 **(09/2017 - 08/2023)
+uw.edu
 
 Summary of your role
 
 - Accomplishment that contains **bold text**.
 
-
-
-
-[University 1]: uw.edu
-[Internship 1]: https://incutek.net/about-eng/
