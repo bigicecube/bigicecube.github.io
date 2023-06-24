@@ -5,7 +5,7 @@ A short description / abstract of the topic you choose. For the text here and be
 
 
 ## Section 1
-One or several paragraphs.
+One or several paragraphs..
 
 ## Section 2
 One or several paragraphs.
