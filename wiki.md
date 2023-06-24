@@ -1,6 +1,6 @@
 # Pizza: A Delicious Treat
 
-![Pizza](https://example.com/pizza-image.jpg)
+![Pizza](assets/pizza.png)
 
 *Indulge in the world of delectable pizzas and explore the various flavors and styles that make this dish an all-time favorite.*
 
